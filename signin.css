@@ -1,0 +1,106 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Sign-In Section */
+#signin-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Styles */
+.container h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Form Label Styles */
+form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Form Input Styles */
+form input, form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #28a745;
+    font-size: 14px;
+    color: #333;
+}
+
+form input[type="password"], form input[type="email"] {
+    font-size: 14px;
+}
+
+/* Button Styles */
+button[type="submit"] {
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button[type="submit"]:hover {
+    background-color: #218838;
+}
+
+/* Forgot Password Styles */
+.forgot-password {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.forgot-password a {
+    color: #28a745;
+    text-decoration: none;
+}
+
+.forgot-password a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Styles */
+@media (max-width: 600px) {
+    .container {
+        padding: 15px;
+        max-width: 100%;
+    }
+
+    form label {
+        font-size: 16px;
+    }
+
+    button[type="submit"] {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
