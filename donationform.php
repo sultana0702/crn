@@ -55,9 +55,7 @@
 <body>
       <!-- Donation Section -->
   <div id="donation-section">
-    <div class="img">
-        <img src="C:\Users\R ONE\Downloads\form.jpg" alt="Floods">
-      </div>
+    <img
     <div class="container">
       <h1>Donate Now</h1>
       <form id="donationForm">

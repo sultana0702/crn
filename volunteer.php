@@ -19,10 +19,10 @@
       Join us today and be part of a dedicated team making a difference every day. Your efforts can save lives and restore hope.
     </p>
     <p>
-        <a href="form.html"> SIGN UP</a> 
+        <a href="index.php"> SIGN UP</a> 
     </p>
     <!-- Update the link to point to the correct location -->
-    <a href="file.html">Back to Home</a>
+    <a href="index.php">Back to Home</a>
   </section>
   <footer>
     <p>&copy; 2024 Crisis Response Network. All Rights Reserved.</p>

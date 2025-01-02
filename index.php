@@ -253,9 +253,9 @@
           <div class="disaster-detail">
             <div class="disaster-box">
               <div class="card2">
-                <div class="img">
-                  <img src="C:\Users\R ONE\Downloads\flood.jpeg" alt="Floods">
-                </div>
+                
+                  <img src="/img/flood.jpeg" alt="Floods">
+                
                 <div class="disaster-details">
                   <h2 class="class-02">Floods</h2>
                   <p><strong>Alert:</strong> Monitor water levels via official weather reports.</p>
@@ -271,7 +271,7 @@
             <div class="disaster-box">
               <div class="card2">
                 <div class="img">
-                  <img src="C:\Users\R ONE\Downloads\cyclone2.webp" alt="Cyclones">
+                  <img src="img/cyclone2.webp" alt="Cyclones">
                 </div>
                 <div class="disaster-details">
                   <h2 class="class-02">Cyclones</h2>
@@ -288,7 +288,7 @@
             <div class="disaster-box">
               <div class="card2">
                 <div class="img">
-                  <img src="C:\Users\R ONE\Pictures\Camera Roll\stormsage.jpg" alt="Storm Surge">
+                  <img src="img/storm.jpeg" alt="Storm Surge">
                 </div>
                 <div class="disaster-details">
                   <h2 class="class-02">Storm Surge</h2>
@@ -305,7 +305,7 @@
             <div class="disaster-box">
               <div class="card2">
                 <div class="img">
-                  <img src="C:\Users\R ONE\Pictures\Camera Roll\earthquake2.jpg" alt="Earthquake">
+                  <img src="img/earthquake.jpeg" alt="Earthquake">
                 </div>
                 <div class="disaster-details">
                   <h2 class="class-02">Earthquake</h2>
@@ -322,7 +322,7 @@
             <div class="disaster-box">
               <div class="card2">
                 <div class="img">
-                  <img src="C:\Users\R ONE\Downloads\tsunami2.jpg" alt="Tsunami">
+                  <img src="img/tsunami2.jpg" alt="Tsunami">
                 </div>
                 <div class="disaster-details">
                   <h2 class="class-02">Tsunami</h2>

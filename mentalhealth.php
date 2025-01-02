@@ -17,7 +17,7 @@
     <p>
       Our trained professionals provide counseling and guidance to help you through stressful situations.
     </p>
-    <a href="file.html">Back to Home</a>
+    <a href="index.php">Back to Home</a>
   </section>
   <footer>
     <p>&copy; 2024 Crisis Response Network. All Rights Reserved.</p>

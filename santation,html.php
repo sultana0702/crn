@@ -18,7 +18,7 @@
     <p>
       Your support helps us bring sanitation facilities to disaster-stricken areas and promote a healthy environment.
     </p>
-    <a href="file.html">Back to Home</a>
+    <a href="index.php">Back to Home</a>
   </section>
   <footer>
     <p>&copy; 2024 Crisis Response Network. All Rights Reserved.</p>
